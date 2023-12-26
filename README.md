@@ -9,6 +9,7 @@ CSS
 JavaScript
 
 **Features**
+
 **1. Budget Setting**
 
 Users can set their budget by entering the total amount in the designated input field.
@@ -27,9 +28,12 @@ Users can edit and delete entries from the list as needed.
 **External Libraries**
 
 **Font Awesome Icons:** Integrated for visually appealing interface elements.
+
 **Google Fonts:** Utilized for improved typography.
 
+
 **Usage**
+
 Clone the repository to your local machine.
 Open index.html in your preferred web browser.
 
